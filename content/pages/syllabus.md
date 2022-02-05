@@ -21,14 +21,75 @@ Grading
 
 The final course grade will be determined as follows:
 
-| Activities | Percentages |
-| --- | --- |
-| Class participation | 10% |
-| Reading quizzes | 10% |
-| First paper grade | 20% |
-| Second paper grade | 20% |
-| Third paper grade | 20% |
-| Final exam grade | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First paper grade
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second paper grade
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Third paper grade
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam grade
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Plagiarism
 ----------
@@ -40,35 +101,405 @@ See "Academic Integrity at the Massachusetts Institute of Technology: A Handbook
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**I. Military influence on American science**{{< /td-colspan >}} |||
-| 2 | World War II: Hiroshima, Nagasaki | &nbsp; |
-| 3 | Manhattan project | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Science, military research, and the national security state {{< br >}}{{< br >}} Guest lecturer: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/) {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Military influence on American science | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Apollo space program {{< br >}}{{< br >}} Guest lecturer: [Prof. David Mindell](http://esd.mit.edu/Faculty_Pages/mindell/mindell.htm) {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**II. Risk**{{< /td-colspan >}} |||
-| 7 | Space program: Challenger and Columbia | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Space program: Challenger and Columbia (cont.) {{< br >}}{{< br >}} Guest lecturer: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman) {{< br >}}{{< br >}}  | Essay 1 due |
-| 9 | Health and environment | &nbsp; |
-| 10 | Health and environment (cont.) | &nbsp; |
-| 11 | Biotechnology: genetically modified foods | &nbsp; |
-| 12 | Biotechnology: stem cell research | &nbsp; |
-| 13 | Biotechnology: stem cell research (cont.) | &nbsp; |
-| 14 | Biotechnology: cloning | &nbsp; |
-| 15 | Biotechnology: market forces | &nbsp; |
-| 16 | Biotechnology: genome and health insurance | &nbsp; |
-| 17 | Biotechnology: genome and health insurance (cont.) | Essay 2 due |
-| {{< td-colspan 3 >}}**III. The environment**{{< /td-colspan >}} |||
-| 18 | Climate change research | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Climate change research (cont.) {{< br >}}{{< br >}} Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI {{< br >}}{{< br >}}  | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Alternatives to fossil fuels {{< br >}}{{< br >}} Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](http://www.capewind.org/) {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**IV. Politics, ethics, and social science**{{< /td-colspan >}} |||
-| 21 | Experimentation on human subjects | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Experimentation on human subjects (cont.) {{< br >}}{{< br >}} Guest lecturer: [Prof. David Jones](http://web.mit.edu/csd/CSD/People.html) {{< br >}}{{< br >}}  | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Archaeological science: politics of antiquities trade and collection {{< br >}}{{< br >}} Guest lecturers: Katie Getchell and [Christine Kondoleon](http://www.helleniccomserve.com/kondoleon.html), Museum of Fine Arts, Boston {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | Archaeological science: ethical conflicts and political choices in deep water archeological research | Essay 3 due |
-| 25 |  {{< br >}}{{< br >}} Politics in the public presentation of science {{< br >}}{{< br >}} Guest lecturer: [Raney Aronson-Rath](http://www.pbs.org/wgbh/pages/frontline/us/aronson.html), Senior Producer, WGBH Boston {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | Conclusions: review of term, discuss final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Military influence on American science**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+World War II: Hiroshima, Nagasaki
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Manhattan project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Science, military research, and the national security state
+
+Guest lecturer: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Military influence on American science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Apollo space program
+
+Guest lecturer: [Prof. David Mindell](http://esd.mit.edu/Faculty_Pages/mindell/mindell.htm)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Risk**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Space program: Challenger and Columbia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Space program: Challenger and Columbia (cont.)
+
+Guest lecturer: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Health and environment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Health and environment (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: genetically modified foods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: stem cell research
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: stem cell research (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: cloning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: market forces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: genome and health insurance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Biotechnology: genome and health insurance (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. The environment**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Climate change research
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate change research (cont.)
+
+Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Alternatives to fossil fuels
+
+Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](http://www.capewind.org/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Politics, ethics, and social science**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Experimentation on human subjects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Experimentation on human subjects (cont.)
+
+Guest lecturer: [Prof. David Jones](http://web.mit.edu/csd/CSD/People.html)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Archaeological science: politics of antiquities trade and collection
+
+Guest lecturers: Katie Getchell and [Christine Kondoleon](http://www.helleniccomserve.com/kondoleon.html), Museum of Fine Arts, Boston
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Archaeological science: ethical conflicts and political choices in deep water archeological research
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Politics in the public presentation of science
+
+Guest lecturer: [Raney Aronson-Rath](http://www.pbs.org/wgbh/pages/frontline/us/aronson.html), Senior Producer, WGBH Boston
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions: review of term, discuss final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -452,9 +452,9 @@ Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry
 {{< tdopen >}}
 
 
-Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://web.archive.org/web/20090512153010/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_SPM.pdf))
+Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." ([PDF - 3.7 MB](http://web.archive.org/web/20090512153010/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_SPM.pdf))
 
-———. "Intergovernmental Panel on Climate Change - Technical Summary." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 18.6 MB](http://web.archive.org/web/20090227015341/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_TS.pdf)) \[Look over the table of contents, read the parts that catch your attention.\]
+———. "Intergovernmental Panel on Climate Change - Technical Summary." ([PDF - 18.6 MB](http://web.archive.org/web/20090227015341/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_TS.pdf)) \[Look over the table of contents, read the parts that catch your attention.\]
 
 
 {{< tdclose >}}
@@ -478,7 +478,7 @@ Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](http://www.cap
 
 Runge, C. Ford, and Benjamin Senauer. "[How Biofuels Could Starve the Poor](https://www.foreignaffairs.com/articles/2007-05-01/how-biofuels-could-starve-poor)." _Foreign Affairs_ 86 (May/June 2007): 41-54.
 
-Natural Resources Defense Council. "Nuclear Facts." (February 2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nrdc.org/nuclear/plants/plants.pdf))
+Natural Resources Defense Council. "Nuclear Facts." (February 2007). ([PDF](http://www.nrdc.org/nuclear/plants/plants.pdf))
 
 Wald, Matthew. "[The Best Nuclear Option](https://www.technologyreview.com/2006/07/01/228702/the-best-nuclear-option/)." _Technology Review_ (July 1, 2006): 6 pages.
 
@@ -584,7 +584,7 @@ Archaeological science: ethical conflicts and political choices in deep water ar
 
 Ballard, R. D., et al. "The Discovery of Ancient History in the Deep Sea Using Advanced Deep Submergence Technology." _Deep-Sea Research I_ 47 (2000): 1591-1620. \[1997 deep water project that raised political and ethical issues.\]
 
-Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://unesdoc.unesco.org/images/0012/001232/123278E.pdf))
+Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. ([PDF](http://unesdoc.unesco.org/images/0012/001232/123278E.pdf))
 
 
 {{< tdclose >}}

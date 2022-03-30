@@ -5,6 +5,7 @@ description: 'Reading assigned to accompany a lecture on alternatives to fossil 
   for Offshore Wind Generation and Fuel Diversity" (2004).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/b4b73d9e758be4c7657227acc56775e3_20_doe_wind.pdf
 file_type: application/pdf
+parent_uid: 07457876-ed11-6ada-0955-950e3ad45d79
 resourcetype: Document
 title: 'Natural Gas in the New England Region: Implications for Offshore Wind Generation
   and Fuel Diversity'

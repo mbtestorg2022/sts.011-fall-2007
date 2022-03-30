@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on World War II, Hiroshima, and Nagasaki.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6c9177b1605461dd4dfea5e5937cc7b2_lec2.pdf
 file_type: application/pdf
+parent_uid: e0a29f59-616c-bc64-78d4-3136597b2ff3
 resourcetype: Document
 title: 'World War II: A Technological and Psychological Turning Point?'
 uid: 6c9177b1-6054-61dd-4dfe-a5e5937cc7b2

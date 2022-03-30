@@ -5,6 +5,7 @@ description: 'Reading assigned to accompany a lecture on alternatives to fossil 
   1-10.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/05a2e80faf8f45a32874e3be99c1e72c_20_kennedy.pdf
 file_type: application/pdf
+parent_uid: 07457876-ed11-6ada-0955-950e3ad45d79
 resourcetype: Document
 title: Statement on the Cape Wind Project
 uid: 05a2e80f-af8f-45a3-2874-e3be99c1e72c
